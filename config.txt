@@ -1,0 +1,6 @@
+Hi welcome to Srm Eats, how can I help you?  1. Order 2. Support
+Please choose your Category:   1.Meals   2.Juice   3.Deserts 
+Choose menu:   1.Veg Biriyani  Rs.150    2.Tomato Rice   Rs.90    3.Curd Rice   Rs.50
+Choose menu:   1.Fruitninja  Rs.20    2.Tornado  Rs.25   3.Lightning Bolt  Rs.30;
+Choose menu:   1.Cake   Rs.100   2.Ice cream   Rs.40;
+Choose Support Options  1. Order Support  2. Cancellation and refund
